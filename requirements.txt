@@ -1,5 +1,5 @@
 streamlit==1.37.0
-git+https://github.com/okld/streamlit-audiorec.git
+streamlit-audiorec
 streamlit-webrtc==0.47.1
 
 requests
