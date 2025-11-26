@@ -1,8 +1,6 @@
 import streamlit as st
 from st_audiorec import st_audiorec
 from groq_client import speech_to_text, generate_answer, text_to_speech
-from pydub import AudioSegment
-
 
 
 st.set_page_config(page_title="Dhruv's Self VoiceBot", layout="centered",page_icon="assets/Icon.ico")
